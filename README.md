@@ -5,7 +5,7 @@
 ## Usage
 
 ```ts
-import { isUp } from 'https://deno.land/x/deno_isup@v0.1.0/mod.ts'
+import { isUp } from 'https://deno.land/x/deno_isup@v0.2.0/mod.ts'
 
 console.log(await isUp('duckduckgo.com'))
 ```
